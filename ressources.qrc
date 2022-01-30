@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/ressources">
+        <file>res/tse.jpg</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>res/menu.jpg</file>
+        <file>res/tse.jpg</file>
+        <file>res/haarcascade_frontalface_alt.xml</file>
+    </qresource>
+</RCC>
